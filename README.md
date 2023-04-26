@@ -1,3 +1,5 @@
+# Antv-X6-for-data-mining
+
 ### 1. Choose to go to different folders according to your computer system
 
 For win：
@@ -11,10 +13,8 @@ For mac：
 ```bash
 ./manage runserver --noreload
 ```
-
-### 2. Enter the address http://127.0.0.1:8000/ in browser
-
-### 3. Renderings
+---
+### 2. Enter the address http://127.0.0.1:8000/ in browser, then renderings here
 
 <img width="100%" height="100%" alt="image" src="https://user-images.githubusercontent.com/81399414/234468779-32ca1fbd-2955-44c3-a4b2-28f7b9ce08a5.png">
 
